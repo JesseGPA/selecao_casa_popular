@@ -1,0 +1,6 @@
+java/com/jessealves/casapopular/model/Pessoa.class
+java/com/jessealves/casapopular/model/criterios/ICriterio.class
+java/com/jessealves/casapopular/model/criterios/QuantidadeDependentesFamilia.class
+java/com/jessealves/casapopular/model/Familia.class
+java/com/jessealves/casapopular/model/criterios/RendaTotalFamilia.class
+java/com/jessealves/casapopular/service/familiaService.class
